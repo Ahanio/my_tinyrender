@@ -36,11 +36,11 @@ Changing the gray color on the known texture gives us this:
 
 (wow!)
 
-#### 4. The next step is to take into account that we take an image from a camera view. So we need to add perspective projections:
+#### 4. The next step is to take into account that we take an image from a camera view. So we need to implement perspective projections:
 
 <img src="./teaser_imgs/8.png" alt="drawing" width="400"/>
 
-#### 5. While rendering the colored triangles we used barycentric coordinates (to understand if a point is inside a triangle or outside). Actually, they are very useful: knowing color (or anything else) of triangle vertices we can interpolate it all over the triangle (using barycentric coordinates):
+#### 5. While rendering the colored triangles we used barycentric coordinates (to understand if a point is inside a triangle). And here it helps us again: knowing color (or anything else) of triangle vertices we can interpolate it all over the triangle (using the barycentric coordinates):
    
 <img src="./teaser_imgs/9.png" alt="drawing" width="400"/>
 
