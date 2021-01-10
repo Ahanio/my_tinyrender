@@ -19,10 +19,15 @@ Here is my progress:
 
 #### 2. After parsing obj file and applying the methods above we have:
 
-<img src="./teaser_imgs/3.png" alt="drawing" width="400"/>
-<img src="./teaser_imgs/4.png" alt="drawing" width="400"/>
 
-Knowing a triangle normal and light directions we get this (intensity ~ n*l):
+
+
+<p float="left">
+  <img src="./teaser_imgs/3.png" alt="drawing" width="400"/>
+  <img src="./teaser_imgs/4.png" alt="drawing" width="400"/>
+</p>
+
+Knowing a triangle normal and light directions we can get this (intensity ~ n*l):
 
 <img src="./teaser_imgs/5.png" alt="drawing" width="400"/>
 
@@ -48,10 +53,11 @@ Changing the gray color on the known texture gives us this:
 
 #### 6. Adding normal and specularity maps. Minor modifications of shader leads to the following results.
    
-<img src="./teaser_imgs/10.png" alt="drawing" width="400"/>
-<img src="./teaser_imgs/11.png" alt="drawing" width="400"/>
-<img src="./teaser_imgs/12.png" alt="drawing" width="400"/>
-
+<p float="left">
+  <img src="./teaser_imgs/10.png" alt="drawing" width="400"/>
+  <img src="./teaser_imgs/11.png" alt="drawing" width="400"/>
+  <img src="./teaser_imgs/12.png" alt="drawing" width="400"/>
+</p>
 
 TODO list:
 - [x] Bresenham’s Line Drawing Algorithm
