@@ -50,3 +50,13 @@ Changing the gray color on the known texture gives us this:
 <img src="./teaser_imgs/11.png" alt="drawing" width="400"/>
 <img src="./teaser_imgs/12.png" alt="drawing" width="400"/>
 
+
+TODO list:
+- [x] Bresenham’s Line Drawing Algorithm
+- [x] Triangle rasterization and back face culling
+- [x] Hidden faces removal (z buffer)
+- [x] Perspective projection
+- [x] Moving the camera
+- [x] Shaders for the software renderer
+- [ ] Shadow mapping
+- [ ] Ambient occlusion
