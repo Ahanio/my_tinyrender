@@ -11,9 +11,11 @@ Structure:
 Here is my progress:
 
 #### 1. First of all we need to know how to render simple primitives like a line, (filled) triangle:
-   
-<img src="./teaser_imgs/1.png" alt="drawing" width="200"/>
-<img src="./teaser_imgs/2.png" alt="drawing" width="200"/>
+
+<p float="left">
+  <img src="./teaser_imgs/1.png" alt="drawing" width="200"/>
+  <img src="./teaser_imgs/2.png" alt="drawing" width="200"/>
+</p>
 
 #### 2. After parsing obj file and applying the methods above we have:
 
