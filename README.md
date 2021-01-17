@@ -5,7 +5,7 @@ The goal of this learning-project is to be able to render an object (given in ob
 
 Structure:
 * lessons1-6.ipynb - prototyping first steps (the code here is a real mess)
-* my_render/ - at some point brush up the code a bit and made it more structed.
+* my_render/ - at some point I brushed up the code a bit and made it more structed. So here is more structed version with shader abstraction
 * obj/ - .obj, .png files
 
 Here is my progress:
