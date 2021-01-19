@@ -1,5 +1,5 @@
 # My tinyrender
-My simple implementation of rendering based on [this course](https://github.com/ssloy/tinyrenderer). Unlike it is instructed in the course, I wrote the code in python. But bare python is too slow, so I used numpy to make it faster.
+My simple implementation of rendering based on [this course](https://github.com/ssloy/tinyrenderer) (btw the course is great). Unlike it is instructed in the course, I wrote the code in python. But bare python is too slow, so I used numpy to make it faster.
 
 The goal of this learning-project is to be able to render an object (given in obj format).
 
