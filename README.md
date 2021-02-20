@@ -1,12 +1,12 @@
 # My tinyrender
-My simple implementation of rendering based on [this course](https://github.com/ssloy/tinyrenderer). Unlike it is instructed in the course, I wrote the code in python. But bare python is too slow, so I used numpy to make it faster.
+My simple implementation of rendering based on [this course](https://github.com/ssloy/tinyrenderer) (btw the course is great). Unlike it is instructed in the course, I wrote the code in python. But bare python is too slow, so I used numpy to make it faster.
 
 The goal of this learning-project is to be able to render an object (given in obj format).
 
 Structure:
 * lessons1-6.ipynb - prototyping first steps (the code here is a real mess)
-* my_render/ - at some point brush up the code a bit and made it more structed.
-* obj/ - .obj, .png files
+* my_render/ - at some point I brushed up the code a bit and made it more structed. So here is more structed version with shader abstraction
+* obj/ - .obj .png files of 3d models
 
 Here is my progress:
 
