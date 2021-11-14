@@ -1,7 +1,7 @@
 # My tinyrender
 My simple implementation of rendering based on [this course](https://github.com/ssloy/tinyrenderer) (btw the course is great). Unlike it is instructed in the course, I wrote the code in python. I used numpy to make it faster.
 
-The goal of this learning-project is to be able to render an object (given in obj format).
+The goal of this project is to learn how to render an object (given in obj format).
 
 Structure:
 * lessons1-6.ipynb - prototyping first steps (the code here is a real mess)
